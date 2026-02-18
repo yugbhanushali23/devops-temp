@@ -1,1 +1,5 @@
-Line 1: changed in main
+<<<<<<< HEAD
+Line 1: changed in feature-login
+=======
+Line 1: changed in feature-login
+>>>>>>> feature-login
